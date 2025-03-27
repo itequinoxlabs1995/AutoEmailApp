@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoEmailApp", "AutoEmailApp.csproj", "{72019FA0-4755-4FD1-BAB1-6CD5715F3274}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72019FA0-4755-4FD1-BAB1-6CD5715F3274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72019FA0-4755-4FD1-BAB1-6CD5715F3274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72019FA0-4755-4FD1-BAB1-6CD5715F3274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72019FA0-4755-4FD1-BAB1-6CD5715F3274}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B59B3AEF-C74B-4758-B840-9DB2F3BA4147}
+	EndGlobalSection
+EndGlobal
