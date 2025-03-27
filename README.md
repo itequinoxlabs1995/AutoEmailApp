@@ -1,0 +1,2 @@
+# AutoEmailApp
+Console Application
